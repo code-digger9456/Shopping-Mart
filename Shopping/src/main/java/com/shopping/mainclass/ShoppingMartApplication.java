@@ -8,7 +8,7 @@ public class ShoppingMartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ShoppingMartApplication.class, args);
-		System.out.println("vishal");
+
 	}
 
 }
